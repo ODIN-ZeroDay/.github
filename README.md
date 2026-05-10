@@ -1,4 +1,4 @@
- # ⚡ ODIN-ZeroDay
+# ⚡ ODIN-ZeroDay
 
 > **Intelligent Security Tools for the Next Generation**
 
@@ -14,7 +14,7 @@ We build AI-powered security tools that find vulnerabilities before attackers do
 
 | Product | Status | What It Does |
 |---------|--------|-------------|
-| 🧠 **ZeroDay Hunter** | ✅ v2.0 | Intelligent bug bounty automation |
+| 🧠 **ZeroDay Hunter** | ✅ v1.0 | Intelligent bug bounty automation |
 | 🔗 **ZeroDay Web3** | 🔜 Coming Soon | dApp & blockchain security |
 | ⚔️ **ZeroDay Framework** | 🔜 Coming Soon | Complete pentesting suite |
 | 🎓 **ZeroDay Academy** | 🔜 Coming Soon | Hands-on security training |
